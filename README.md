@@ -17,17 +17,17 @@ ClusterCentroids Undersampling:
   -Precision: 1%
   -Recall: 69%
   
-SMOTEENN Under and Over Sampling
+SMOTEENN Under and Over Sampling:
   -Balanced Accuracy Score: 66.6%
   -Precision: 1%
   -Recall: 73%
   
-Balanced Random Forest Classifier
+Balanced Random Forest Classifier:
   -Balanced Accuracy Score: 78.9%
   -Precision: 3%
   -Recall: 70%
   
-Easy Ensemble AdaBoost Classifier
+Easy Ensemble AdaBoost Classifier:
   -Balanced Accuracy Score: 93.1%
   -Precision: 9%
   -Recall: 92%
