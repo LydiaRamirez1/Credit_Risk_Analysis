@@ -2,32 +2,32 @@
 ## Overview
 The purpose of this analysis was to determine the best machine learning model to evaluate the data with. Thus, each model's balanced accuracy, precision, and recall scores were determined for six different models.
 ## Results
-Random Oversampling:
+### Random Oversampling:
   -Balanced Accuracy Score: 64.6%
   -Precision: 1%
   -Recall: 71%
   
-SMOTE Oversampling:
+### SMOTE Oversampling:
   -Balanced Accuracy Score: 65.9%
   -Precision: 1%
   -Recall: 63%
   
-ClusterCentroids Undersampling:
+### ClusterCentroids Undersampling:
   -Balanced Accuracy Score: 54.5%
   -Precision: 1%
   -Recall: 69%
   
-SMOTEENN Under and Over Sampling:
+### SMOTEENN Under and Over Sampling:
   -Balanced Accuracy Score: 66.6%
   -Precision: 1%
   -Recall: 73%
   
-Balanced Random Forest Classifier:
+### Balanced Random Forest Classifier:
   -Balanced Accuracy Score: 78.9%
   -Precision: 3%
   -Recall: 70%
   
-Easy Ensemble AdaBoost Classifier:
+### Easy Ensemble AdaBoost Classifier:
   -Balanced Accuracy Score: 93.1%
   -Precision: 9%
   -Recall: 92%
