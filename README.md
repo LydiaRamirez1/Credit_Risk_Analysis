@@ -33,6 +33,6 @@ The purpose of this analysis was to determine the best machine learning model to
   -Recall: 92%
   
   ## Summary
-Lower accruacy were encountered in Naive Random Oversampling, SMOTE Oversampling, Undersampling, and Combination (Over and Under) Sampling.
+Lower accuracy was encountered in Naive Random Oversampling, SMOTE Oversampling, Undersampling, and Combination (Over and Under) Sampling.
 While these approached yielded over 90% accruacy Balanced Random Forest Classifier, Easy Ensemble AdaBoost Classifier.
 I would recommend more work be done to see if their results would improve with better training and testing.
